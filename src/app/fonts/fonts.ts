@@ -14,6 +14,8 @@ import fontQuicksandLight from 'url:./Quicksand-Light.woff2';
 import fontSilkscreen from 'url:./Silkscreen-Regular.woff2';
 import fontTehroc from 'url:./Tehroc-Regular.woff2';
 import fontYunga from 'url:./YUNGA-Display.woff2';
+import fontTWcen from 'url:./TwCenMT.woff2';
+import fontEarthsMightiest from 'url:./EarthsMightiest.woff2';
 
 export const fonts: {
     name: string;
@@ -24,6 +26,7 @@ export const fonts: {
     { name: 'CorrectionBrush', url: fontCorrectionBrush },
     { name: 'DancingScript', url: fontDancingScript },
     { name: 'Diabolik', url: fontDiabolik },
+    { name: 'Earth\'sMightiestFont', url: fontEarthsMightiest },
     { name: 'FreckleFace', url: fontFreckleFace },
     { name: 'Gloock', url: fontGloock },
     { name: 'GochiHand', url: fontGochiHand },
@@ -34,5 +37,6 @@ export const fonts: {
     { name: 'Quicksand', url: fontQuicksandLight },
     { name: 'Silkscreen', url: fontSilkscreen },
     { name: 'Tehroc', url: fontTehroc },
+    { name: 'TWCen', url: fontTWcen },
     { name: 'YUNGA', url: fontYunga },
 ];
